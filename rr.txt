@@ -1,0 +1,14 @@
+Component is of 2 types :-
+1. Class
+2. Functional
+
+Props :-
+It is an object always.
+1. u can pass data only from parent to child.
+2. A parent can send data to its immediate child.
+
+constructor(props){
+	super(props);
+}
+
+Synthetic events :- These r not native events but behave like so.
